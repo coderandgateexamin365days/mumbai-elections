@@ -1,0 +1,52 @@
+[
+    {
+        "ward_no": "1",
+        "corporator_name": "TEJASVEE ABHISHEK GHOSALKAR",
+        "party": "Shivsena",
+        "party_code": "SS",
+        "reservation": "Women (OBC)",
+        "area": "R/North",
+        "votes": 4913,
+        "status": "Winner"
+    },
+    {
+        "ward_no": "2",
+        "corporator_name": "JAGDISH KARUNASHANKAR OZA",
+        "party": "Bhartiya Janata Party",
+        "party_code": "BJP",
+        "reservation": "Open",
+        "area": "R/North",
+        "votes": 10719,
+        "status": "Winner"
+    },
+    {
+        "ward_no": "3",
+        "corporator_name": "BALKRISHNA JAYSING BRID",
+        "party": "Shivsena",
+        "party_code": "SS",
+        "reservation": "Open",
+        "area": "R/North",
+        "votes": 8567,
+        "status": "Winner"
+    },
+    {
+        "ward_no": "4",
+        "corporator_name": "SUJATA PATEKAR",
+        "party": "Shivsena",
+        "party_code": "SS",
+        "reservation": "Women",
+        "area": "R/North",
+        "votes": 7890,
+        "status": "Winner"
+    },
+    {
+        "ward_no": "5",
+        "corporator_name": "SANJAY GHADI",
+        "party": "Shivsena",
+        "party_code": "SS",
+        "reservation": "Open",
+        "area": "R/North",
+        "votes": 9123,
+        "status": "Winner"
+    }
+]
